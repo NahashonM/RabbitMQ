@@ -1,4 +1,4 @@
-# RabbitMQ - Hello-World [ Python ]
+# RabbitMQ - Hello-World [ Go ]
 
 Note: The queue and exchange are defined on the producer <br>
        The producer should be run started and then the consumer can be started
